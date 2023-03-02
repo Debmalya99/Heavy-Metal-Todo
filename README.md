@@ -15,8 +15,8 @@ It is a simple todolist project that uses Vue JS.
 #### How to get started?
 
 ```
-git pull git@github.com:guylil/todo-list-vuejs.git
-cd todo-vue
+download the code as a zip or git clone it
+cd to the project folder
 npm install
 npm run serve
 open your browser @ localhost:8080
